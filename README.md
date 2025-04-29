@@ -15,6 +15,13 @@ You're tasked with creating a system for managing **travel itineraries** with th
 
 ---
 
+![image](https://github.com/user-attachments/assets/8a2e26e7-b48c-419f-94ee-317cd48a36c6)
+![image](https://github.com/user-attachments/assets/ab1d6e99-57e7-4719-8dd7-bfe8d54ba68e)
+![image](https://github.com/user-attachments/assets/d6a183fb-85c9-419e-81aa-15a8ae7d93aa)
+![image](https://github.com/user-attachments/assets/54430444-00e2-4525-8474-9d1fb2ecb448)
+
+
+
 ## 🧱 Tech Stack
 
 | Layer        | Technology          |
